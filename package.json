@@ -1,0 +1,22 @@
+{
+  "name": "authentication-demo",
+  "version": "1.0.0",
+  "description": "Demonstrating how to implement authentication middleware on routes, to safely store sensitive user data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubiksron/authentication-demo.git"
+  },
+  "keywords": [
+    "authentication"
+  ],
+  "author": "ron dunphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubiksron/authentication-demo/issues"
+  },
+  "homepage": "https://github.com/Rubiksron/authentication-demo#readme"
+}
